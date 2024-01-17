@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.demo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 2rem;
+}
+
+button {
+  max-width: 200px;
+}
+
+.dog {
+  border: 1px solid black;
+  margin-bottom: 1rem;
+}
